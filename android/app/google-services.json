@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34039739951",
+    "firebase_url": "https://asmeniniai-finansai-113c6.firebaseio.com",
+    "project_id": "asmeniniai-finansai-113c6",
+    "storage_bucket": "asmeniniai-finansai-113c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34039739951:android:0e493d81fa3de88364b8da",
+        "android_client_info": {
+          "package_name": "com.asmeniniai_finansai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34039739951-oh0chievrs88egvntvmjm667vtgpkv8j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asmeniniai_finansai",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "34039739951-llpa04du5lrcq302itgkhdo36k8u5om3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApY5Xirs7KPHN2E2pqqRquGx3vHa37rs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34039739951-llpa04du5lrcq302itgkhdo36k8u5om3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
